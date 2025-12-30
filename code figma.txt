@@ -1,0 +1,4691 @@
+/* Page accueil */
+
+position: relative;
+width: 1680px;
+height: 5565px;
+
+background: #FFFFFF;
+
+
+/* Footer */
+
+position: absolute;
+width: 1680px;
+height: 489px;
+left: 0px;
+top: 5076px;
+
+background: #152237;
+
+
+/* © Klivio - 2025 */
+
+position: absolute;
+width: 301px;
+height: 24px;
+left: 96px;
+top: 319px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identique à la hauteur de la zone de texte, ou 160% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* réeaux sociaux */
+
+position: absolute;
+width: 297px;
+height: 30px;
+left: 1281px;
+top: 332px;
+
+
+
+/* Social Icons */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1401px;
+top: 332px;
+
+
+
+/* c */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.37%;
+
+background: #FFFFFF;
+
+
+/* d */
+
+position: absolute;
+left: 27.61%;
+right: 26.8%;
+top: 18.51%;
+bottom: 0%;
+
+background: #152237;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1452px;
+top: 332px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 7.93%;
+bottom: 9.21%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1503px;
+top: 332px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.06%;
+top: 0%;
+bottom: 0.02%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 24.32%;
+top: 24.32%;
+bottom: 24.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.7%;
+right: 17.3%;
+top: 17.3%;
+bottom: 70.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.14%;
+right: 6.07%;
+top: 67.89%;
+bottom: 25.97%;
+
+background: #FFFFFF;
+
+
+/* Suivez - nous */
+
+position: absolute;
+width: 96px;
+height: 24px;
+left: 1281px;
+top: 335px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identique à la hauteur de la zone de texte, ou 160% */
+text-align: right;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1482px;
+height: 2px;
+left: 96px;
+top: 292px;
+
+background: #44DD8A;
+
+
+/* inscription */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: 1448px;
+top: 172px;
+
+background: linear-gradient(95.98deg, #44DD8A 8.7%, #15B7E2 100%);
+border-radius: 6px;
+
+
+/* Inscription */
+
+position: absolute;
+width: 80px;
+height: 18px;
+left: 25px;
+top: 11px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* connexion */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: 1448px;
+top: 120px;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* Connexion */
+
+position: absolute;
+width: 80px;
+height: 18px;
+left: 25px;
+top: 11px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* mentions légales */
+
+position: absolute;
+width: 173px;
+height: 135px;
+left: 627px;
+top: 120px;
+
+
+
+/* CGU CGV FAQ Contact */
+
+position: absolute;
+width: 173px;
+height: 95px;
+left: 627px;
+top: 160px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* ou 160% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* Mentions légales */
+
+position: absolute;
+width: 173px;
+height: 24px;
+left: 627px;
+top: 120px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 24px;
+/* identique à la hauteur de la zone de texte, ou 160% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* cordonnées */
+
+position: absolute;
+width: 192px;
+height: 144px;
+left: 865px;
+top: 120px;
+
+
+
+/* 1 place république,75003 Paris 01.02.03.04.05 contact@klivio.fr */
+
+position: absolute;
+width: 148px;
+height: 95px;
+left: 909px;
+top: 160px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* ou 160% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* phone */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 866px;
+top: 207px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.04%;
+right: 13.04%;
+top: 12.63%;
+bottom: 12.63%;
+
+border: 2px solid #FFFFFF;
+
+
+/* mail-01 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 865px;
+top: 240px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 23.73%;
+
+border: 2px solid #FFFFFF;
+
+
+/* marker-02 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 866px;
+top: 160px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 18.7%;
+right: 18.7%;
+top: 10%;
+bottom: 10%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Coordonnées */
+
+position: absolute;
+width: 173px;
+height: 24px;
+left: 865px;
+top: 120px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 24px;
+/* identique à la hauteur de la zone de texte, ou 160% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 1680px;
+height: 18px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90.01deg, #44DD8A 2.38%, #18A0FB 100%);
+
+
+/* png blanc 2 */
+
+position: absolute;
+width: 243px;
+height: 87px;
+left: 96px;
+top: 109px;
+
+background: url(png blanc.png);
+
+
+/* a propos de klivio */
+
+position: absolute;
+width: 1680px;
+height: 740px;
+left: 0px;
+top: 3673px;
+
+background: #F5F5F5;
+
+
+/* Group */
+
+position: absolute;
+width: 686px;
+height: 372px;
+left: 103px;
+top: 184px;
+
+
+
+/* À propos de Klivio */
+
+position: absolute;
+width: 686px;
+height: 36px;
+left: 103px;
+top: 184px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 36px;
+/* identique à la hauteur de la zone de texte, ou 90% */
+letter-spacing: -0.015em;
+text-transform: uppercase;
+
+color: #152237;
+
+
+
+/* Chez Klivio, nous défendons des valeurs fondamentales qui définissent notre approche éducative. Nous nous engageons à assurer une rémunération équitable pour les créateurs de contenu, reconnaissant la qualité de leur travail. Favorisant l'autonomie d'apprentissage, notre plateforme offre la flexibilité écessaire pour explorer divers sujets. La transparence est au cœur de notre démarche, garantissant une clarté totale sur les formations que les instructeurs proposent. Ensemble, ces valeurs forment le socle d'une ducation enrichissante et équitable, guidant notre mission d'offrir des pportunités d'apprentissage de qualité */
+
+position: absolute;
+width: 686px;
+height: 295px;
+left: 103px;
+top: 261px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* ou 156% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 830px;
+height: 740px;
+left: 850px;
+top: 0px;
+
+background: #152237;
+
+
+/* png blanc 1 */
+
+position: absolute;
+width: 430px;
+height: 155px;
+left: 1050px;
+top: 292px;
+
+background: url(png blanc.png);
+
+
+/* Nous contacter */
+
+position: absolute;
+width: 393px;
+height: 36px;
+left: 644px;
+top: 4473px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 36px;
+/* identique à la hauteur de la zone de texte, ou 90% */
+letter-spacing: -0.015em;
+text-transform: uppercase;
+
+color: #152237;
+
+
+
+/* avantages formations */
+
+position: absolute;
+width: 1680px;
+height: 641px;
+left: 1px;
+top: 3032px;
+
+background: #44DD8A;
+
+
+/* icones */
+
+position: absolute;
+width: 30px;
+height: 328px;
+left: 908px;
+top: 211px;
+
+
+
+/* heart */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 908px;
+top: 256px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 10%;
+right: 9.75%;
+top: 19.75%;
+bottom: 11.72%;
+
+border: 2px solid #FFFFFF;
+
+
+/* user-profile-square */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 908px;
+top: 509px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+border: 2px solid #FFFFFF;
+
+
+/* coin-hand */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 908px;
+top: 211px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2px solid #FFFFFF;
+
+
+/* pencil-01 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 908px;
+top: 305px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+border: 2px solid #FFFFFF;
+
+
+/* settings */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 908px;
+top: 350px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Commission unique, au pourcentage sur les ventes Mise en avant sur la plateforme Contrôle total sur le cours : contenu, prix Fonctionnalités avancées : espace commentaires, possibilité de créer des QCM, exercices, vidéos, téléchargement en PDF, suivi des statistiques des ventes, gestion de codes promos, gestion de la facturation, etc Le professeur reste 100% propriétaire de sa formation et conserve tous ses droits d’auteur */
+
+position: absolute;
+width: 616px;
+height: 352px;
+left: 977px;
+top: 211px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* ou 117% */
+letter-spacing: -0.015em;
+
+color: rgba(0, 0, 0, 0.8);
+
+
+
+/* Créez vos formations avec Klivio */
+
+position: absolute;
+width: 686px;
+height: 93px;
+left: 912px;
+top: 79px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 36px;
+/* ou 90% */
+letter-spacing: -0.015em;
+text-transform: uppercase;
+
+color: #152237;
+
+
+
+/* pexels-julia-m-cameron-4144923 (1) 1 */
+
+position: absolute;
+width: 729px;
+height: 487px;
+left: 101px;
+top: 76px;
+
+background: url(pexels-julia-m-cameron-4144923 (1).jpg);
+
+
+/* avantages */
+
+position: absolute;
+width: 1680px;
+height: 641px;
+left: 1px;
+top: 2391px;
+
+background: #F5F5F5;
+
+
+/* icones */
+
+position: absolute;
+width: 30px;
+height: 265px;
+left: 98px;
+top: 169px;
+
+
+
+/* star-02 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 100px;
+top: 312px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 8.06%;
+right: 8.06%;
+top: 10%;
+bottom: 10%;
+
+border: 2px solid #44DD8A;
+
+
+/* arrow-up-right */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 98px;
+top: 169px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 11.75%;
+right: 29.92%;
+top: 11.75%;
+bottom: 38.39%;
+
+border: 2px solid #44DD8A;
+transform: rotate(-45deg);
+
+
+/* edit-01 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 98px;
+top: 214px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 12.41%;
+right: 12.41%;
+top: 18.2%;
+bottom: 18.2%;
+
+border: 2px solid #44DD8A;
+
+
+/* download-02 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 98px;
+top: 259px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #44DD8A;
+
+
+/* clock-backward */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 98px;
+top: 356px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 6.25%;
+right: 10.27%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #44DD8A;
+
+
+/* annotation-typing */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 98px;
+top: 404px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #44DD8A;
+
+
+/* pexels-jopwell-2422286 1 */
+
+position: absolute;
+width: 727px;
+height: 472px;
+left: 850px;
+top: 76px;
+
+background: url(pexels-jopwell-2422286.jpg);
+
+
+/* Suivi de sa progression Exercices et QCM pour la mise en pratique Possibilité de télécharger/imprimer les formations Contenu qualitatif et vérifié Suivi en autonomie, 24h/24, 7j/7 Espaces d’échanges dédiés pour poser ses questions sur les formations */
+
+position: absolute;
+width: 616px;
+height: 295px;
+left: 163px;
+top: 169px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* ou 117% */
+letter-spacing: -0.015em;
+
+color: rgba(0, 0, 0, 0.8);
+
+
+
+/* Les avantages Klivio */
+
+position: absolute;
+width: 686px;
+height: 47px;
+left: 98px;
+top: 79px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 36px;
+/* ou 90% */
+letter-spacing: -0.015em;
+text-transform: uppercase;
+
+color: #152237;
+
+
+
+/* avis */
+
+position: absolute;
+width: 1680px;
+height: 597px;
+left: 0px;
+top: 1794px;
+
+
+
+/* avis client #2 */
+
+position: absolute;
+width: 665px;
+height: 306px;
+left: 863px;
+top: 160px;
+
+
+
+/* Bon équilibre entre théorie et pratique. Les chapitres sont détaillés, et le support et les corrections automatiques ont vraiment aidé. Idéal pour démarrer et progresser rapidement. */
+
+position: absolute;
+width: 656px;
+height: 90px;
+left: 872px;
+top: 376px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* ou 188% */
+letter-spacing: -0.015em;
+
+color: rgba(0, 0, 0, 0.8);
+
+
+
+/* Camille */
+
+position: absolute;
+width: 656px;
+height: 36px;
+left: 872px;
+top: 300px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identique à la hauteur de la zone de texte, ou 150% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 874px;
+top: 346px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 52.02%;
+right: 46.78%;
+top: 57.96%;
+bottom: 38.83%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 57.74%;
+right: 41.06%;
+top: 57.96%;
+bottom: 38.83%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 56.31%;
+right: 42.49%;
+top: 57.96%;
+bottom: 38.83%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 54.88%;
+right: 43.92%;
+top: 57.96%;
+bottom: 38.83%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 53.45%;
+right: 45.35%;
+top: 57.96%;
+bottom: 38.83%;
+
+background: #FFC700;
+
+
+/* photo */
+
+position: absolute;
+width: 139px;
+height: 139px;
+left: 863px;
+top: 160px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 139px;
+height: 139px;
+left: 863px;
+top: 160px;
+
+background: #D9D9D9;
+
+
+/* adult-patient-with-dentist-during-a-medical-consul-2023-11-27-05-28-05-utc 2 */
+
+position: absolute;
+width: 312.37px;
+height: 208.5px;
+left: calc(50% - 312.37px/2 + 40.88px);
+top: calc(50% - 208.5px/2 - 34.25px);
+
+background: url(adult-patient-with-dentist-during-a-medical-consul-2023-11-27-05-28-05-utc.jpg);
+
+
+/* image 1 */
+
+position: absolute;
+width: 383px;
+height: 255px;
+left: 731px;
+top: 142px;
+
+background: url(image.png);
+
+
+/* avis client #1 */
+
+position: absolute;
+width: 689px;
+height: 306px;
+left: 150px;
+top: 160px;
+
+
+
+/* J’ai trouvé le parcours très bien structuré : vidéos courtes, quizzes pertinents et projets pratiques qui m’ont permis d’appliquer immédiatement les notions. L’interface est claire et la progression est motivante — parfait pour se former en autonomie. */
+
+position: absolute;
+width: 686px;
+height: 90px;
+left: 153px;
+top: 376px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* ou 188% */
+letter-spacing: -0.015em;
+
+color: rgba(0, 0, 0, 0.8);
+
+
+
+/* Juliette */
+
+position: absolute;
+width: 686px;
+height: 36px;
+left: 153px;
+top: 300px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identique à la hauteur de la zone de texte, ou 150% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 152px;
+top: 343px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 9.05%;
+right: 89.75%;
+top: 57.45%;
+bottom: 39.33%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 14.76%;
+right: 84.04%;
+top: 57.45%;
+bottom: 39.33%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 13.33%;
+right: 85.47%;
+top: 57.45%;
+bottom: 39.33%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 11.9%;
+right: 86.9%;
+top: 57.45%;
+bottom: 39.33%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 10.48%;
+right: 88.33%;
+top: 57.45%;
+bottom: 39.33%;
+
+background: #FFC700;
+
+
+/* photo */
+
+position: absolute;
+width: 139px;
+height: 139px;
+left: 150px;
+top: 160px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 139px;
+height: 139px;
+left: 150px;
+top: 160px;
+
+background: #D9D9D9;
+
+
+/* adult-patient-with-dentist-during-a-medical-consul-2023-11-27-05-28-05-utc 2 */
+
+position: absolute;
+width: 312.37px;
+height: 208.5px;
+left: calc(50% - 312.37px/2 - 672.12px);
+top: calc(50% - 208.5px/2 - 34.25px);
+
+background: url(adult-patient-with-dentist-during-a-medical-consul-2023-11-27-05-28-05-utc.jpg);
+
+
+/* Avis clients */
+
+position: absolute;
+width: 289px;
+height: 36px;
+left: 695px;
+top: 58px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 36px;
+/* identique à la hauteur de la zone de texte, ou 90% */
+letter-spacing: -0.015em;
+text-transform: uppercase;
+
+color: #152237;
+
+
+
+/* les formations récentes */
+
+position: absolute;
+width: 1680px;
+height: 632px;
+left: 0px;
+top: 1162px;
+
+background: #152237;
+
+
+/* bouton */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: calc(50% - 130px/2);
+top: 541px;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: -36.92%;
+right: -36.15%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* en savoir plus */
+
+position: absolute;
+left: -16.15%;
+right: -16.15%;
+top: 27.5%;
+bottom: 27.5%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* formation */
+
+position: absolute;
+width: 305px;
+height: 362px;
+left: 1274px;
+top: 136px;
+
+
+
+/* Inspirez, motivez et fédérez votre équipe */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 1288px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #FFFFFF;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 1288px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 76.67%;
+right: 22.14%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 82.38%;
+right: 16.42%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: rgba(255, 199, 0, 0.3);
+
+
+/* Icon */
+
+position: absolute;
+left: 80.95%;
+right: 17.85%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 79.52%;
+right: 19.28%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 78.1%;
+right: 20.71%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Marc Nguyen | Consultant */
+
+position: absolute;
+width: 209px;
+height: 25px;
+left: 1288px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #FFFFFF;
+
+
+
+/* Leadership positif */
+
+position: absolute;
+width: 243px;
+height: 28px;
+left: 1288px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 1274px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1448px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1448px;
+top: 326px;
+
+background: #FFFFFF;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 1459px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 1537px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #152237;
+
+
+
+/* formation */
+
+position: absolute;
+width: 314px;
+height: 362px;
+left: 878px;
+top: 136px;
+
+
+
+/* Analysez, décidez et trouvez des solutions durables */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 892px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #FFFFFF;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 892px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 53.1%;
+right: 45.71%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 58.81%;
+right: 39.99%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: rgba(255, 199, 0, 0.3);
+
+
+/* Icon */
+
+position: absolute;
+left: 57.38%;
+right: 41.42%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 55.95%;
+right: 42.85%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 54.52%;
+right: 44.28%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Thomas Rivière | Expert */
+
+position: absolute;
+width: 189px;
+height: 25px;
+left: 892px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #FFFFFF;
+
+
+
+/* Résoudre les problèmes */
+
+position: absolute;
+width: 300px;
+height: 28px;
+left: 892px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 878px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1052px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1052px;
+top: 326px;
+
+background: #FFFFFF;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 1063px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 1141px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #152237;
+
+
+
+/* formation */
+
+position: absolute;
+width: 305px;
+height: 362px;
+left: 497px;
+top: 136px;
+
+
+
+/* Développez calme et intelligence émotionnelle */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 511px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #FFFFFF;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 511px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 30.42%;
+right: 68.39%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 36.13%;
+right: 62.67%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 34.7%;
+right: 64.1%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 33.27%;
+right: 65.53%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 31.85%;
+right: 66.96%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Amel Benali | Psy. du travail */
+
+position: absolute;
+width: 219px;
+height: 25px;
+left: 511px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #FFFFFF;
+
+
+
+/* Maîtriser ses émotions */
+
+position: absolute;
+width: 288px;
+height: 28px;
+left: 511px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 497px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 671px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 671px;
+top: 326px;
+
+background: #FFFFFF;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 682px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 760px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #152237;
+
+
+
+/* formation */
+
+position: absolute;
+width: 305px;
+height: 362px;
+left: 100px;
+top: 136px;
+
+
+
+/* Améliorez vos échanges et votre impact relationnel */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 114px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #FFFFFF;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 114px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 6.79%;
+right: 92.02%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 86.3%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 11.07%;
+right: 87.73%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 9.64%;
+right: 89.16%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 8.21%;
+right: 90.59%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Julien Martel | Coach en comm. */
+
+position: absolute;
+width: 252px;
+height: 25px;
+left: 114px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #FFFFFF;
+
+
+
+/* Mieux communiquer */
+
+position: absolute;
+width: 264px;
+height: 28px;
+left: 114px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 100px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 274px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 274px;
+top: 326px;
+
+background: #FFFFFF;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 285px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 363px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #152237;
+
+
+
+/* Les formations récentes */
+
+position: absolute;
+width: 452px;
+height: 72px;
+left: 97px;
+top: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 72px;
+/* identique à la hauteur de la zone de texte, ou 200% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* les formations populaires */
+
+position: absolute;
+width: 1680px;
+height: 632px;
+left: 0px;
+top: 530px;
+
+background: #FFFFFF;
+
+
+/* bouton */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: calc(50% - 130px/2);
+top: 541px;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: -36.92%;
+right: -36.15%;
+top: 0%;
+bottom: 0%;
+
+background: #152237;
+border-radius: 6px;
+
+
+/* en savoir plus */
+
+position: absolute;
+left: -16.15%;
+right: -16.15%;
+top: 27.5%;
+bottom: 27.5%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* formation */
+
+position: absolute;
+width: 305px;
+height: 362px;
+left: 1274px;
+top: 136px;
+
+
+
+/* Optimisez vos journées et gagnez en efficacité */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 1288px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #152237;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 1288px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 76.67%;
+right: 22.14%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 82.38%;
+right: 16.42%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: rgba(255, 199, 0, 0.3);
+
+
+/* Icon */
+
+position: absolute;
+left: 80.95%;
+right: 17.85%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 79.52%;
+right: 19.28%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 78.1%;
+right: 20.71%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Claire Dumas | Coach organisation */
+
+position: absolute;
+width: 276px;
+height: 25px;
+left: 1288px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #152237;
+
+
+
+/* Gérer son temps */
+
+position: absolute;
+width: 243px;
+height: 28px;
+left: 1288px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 1274px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1448px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1448px;
+top: 326px;
+
+background: #152237;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 1459px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 1537px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #FFFFFF;
+
+
+
+/* formation */
+
+position: absolute;
+width: 305px;
+height: 362px;
+left: 878px;
+top: 136px;
+
+
+
+/* Collaborez efficacement, même à distance */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 892px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #152237;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 892px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 53.1%;
+right: 45.71%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 58.81%;
+right: 39.99%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 57.38%;
+right: 41.42%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 55.95%;
+right: 42.85%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 54.52%;
+right: 44.28%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* David Moreau | Expert */
+
+position: absolute;
+width: 178px;
+height: 25px;
+left: 892px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #152237;
+
+
+
+/* Travailler en équipe */
+
+position: absolute;
+width: 243px;
+height: 28px;
+left: 892px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 878px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1052px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1052px;
+top: 326px;
+
+background: #152237;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 1063px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 1141px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #FFFFFF;
+
+
+
+/* formation */
+
+position: absolute;
+width: 305px;
+height: 362px;
+left: 497px;
+top: 136px;
+
+
+
+/* Apprenez à rester serein face aux défis */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 511px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #152237;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 511px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 30.42%;
+right: 68.39%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 36.13%;
+right: 62.67%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: rgba(255, 199, 0, 0.3);
+
+
+/* Icon */
+
+position: absolute;
+left: 34.7%;
+right: 64.1%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 33.27%;
+right: 65.53%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 31.85%;
+right: 66.96%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Lucie Garnier | Formatrice */
+
+position: absolute;
+width: 208px;
+height: 25px;
+left: 511px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #152237;
+
+
+
+/* Gérer le stress */
+
+position: absolute;
+width: 243px;
+height: 28px;
+left: 511px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 497px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 671px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 671px;
+top: 326px;
+
+background: #152237;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 682px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 760px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #FFFFFF;
+
+
+
+/* formation */
+
+position: absolute;
+width: 307px;
+height: 362px;
+left: 100px;
+top: 136px;
+
+
+
+/* Gagnez en aisance et captez votre auditoire */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 114px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #152237;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 114px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 6.79%;
+right: 92.02%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 86.3%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 11.07%;
+right: 87.73%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 9.64%;
+right: 89.16%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 8.21%;
+right: 90.59%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Sonia Lefèvre | Coach prise de parole */
+
+position: absolute;
+width: 293px;
+height: 25px;
+left: 114px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #152237;
+
+
+
+/* Parler en public */
+
+position: absolute;
+width: 243px;
+height: 28px;
+left: 114px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 100px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 274px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 274px;
+top: 326px;
+
+background: #152237;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 285px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 363px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #FFFFFF;
+
+
+
+/* Les formations populaires */
+
+position: absolute;
+width: 486px;
+height: 72px;
+left: 97px;
+top: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 72px;
+/* identique à la hauteur de la zone de texte, ou 200% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* les formations populaires */
+
+position: absolute;
+width: 1680px;
+height: 632px;
+left: 0px;
+top: 530px;
+
+background: #FFFFFF;
+
+
+/* bouton */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: calc(50% - 130px/2);
+top: 541px;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: -36.92%;
+right: -36.15%;
+top: 0%;
+bottom: 0%;
+
+background: #152237;
+border-radius: 6px;
+
+
+/* en savoir plus */
+
+position: absolute;
+left: -16.15%;
+right: -16.15%;
+top: 27.5%;
+bottom: 27.5%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* formation */
+
+position: absolute;
+width: 305px;
+height: 362px;
+left: 1274px;
+top: 136px;
+
+
+
+/* Optimisez vos journées et gagnez en efficacité */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 1288px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #152237;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 1288px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 76.67%;
+right: 22.14%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 82.38%;
+right: 16.42%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: rgba(255, 199, 0, 0.3);
+
+
+/* Icon */
+
+position: absolute;
+left: 80.95%;
+right: 17.85%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 79.52%;
+right: 19.28%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 78.1%;
+right: 20.71%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Claire Dumas | Coach organisation */
+
+position: absolute;
+width: 276px;
+height: 25px;
+left: 1288px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #152237;
+
+
+
+/* Gérer son temps */
+
+position: absolute;
+width: 243px;
+height: 28px;
+left: 1288px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 1274px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1448px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1448px;
+top: 326px;
+
+background: #152237;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 1459px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 1537px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #FFFFFF;
+
+
+
+/* formation */
+
+position: absolute;
+width: 305px;
+height: 362px;
+left: 878px;
+top: 136px;
+
+
+
+/* Collaborez efficacement, même à distance */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 892px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #152237;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 892px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 53.1%;
+right: 45.71%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 58.81%;
+right: 39.99%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 57.38%;
+right: 41.42%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 55.95%;
+right: 42.85%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 54.52%;
+right: 44.28%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* David Moreau | Expert */
+
+position: absolute;
+width: 178px;
+height: 25px;
+left: 892px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #152237;
+
+
+
+/* Travailler en équipe */
+
+position: absolute;
+width: 243px;
+height: 28px;
+left: 892px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 878px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1052px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 1052px;
+top: 326px;
+
+background: #152237;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 1063px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 1141px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #FFFFFF;
+
+
+
+/* formation */
+
+position: absolute;
+width: 305px;
+height: 362px;
+left: 497px;
+top: 136px;
+
+
+
+/* Apprenez à rester serein face aux défis */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 511px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #152237;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 511px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 30.42%;
+right: 68.39%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 36.13%;
+right: 62.67%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: rgba(255, 199, 0, 0.3);
+
+
+/* Icon */
+
+position: absolute;
+left: 34.7%;
+right: 64.1%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 33.27%;
+right: 65.53%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 31.85%;
+right: 66.96%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Lucie Garnier | Formatrice */
+
+position: absolute;
+width: 208px;
+height: 25px;
+left: 511px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #152237;
+
+
+
+/* Gérer le stress */
+
+position: absolute;
+width: 243px;
+height: 28px;
+left: 511px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 497px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 671px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 671px;
+top: 326px;
+
+background: #152237;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 682px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 760px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #FFFFFF;
+
+
+
+/* formation */
+
+position: absolute;
+width: 307px;
+height: 362px;
+left: 100px;
+top: 136px;
+
+
+
+/* Gagnez en aisance et captez votre auditoire */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: 114px;
+top: 462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* ou 112% */
+
+color: #152237;
+
+
+
+/* étoiles / note */
+
+position: absolute;
+width: 116.13px;
+height: 19.2px;
+left: 114px;
+top: 432px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 6.79%;
+right: 92.02%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 86.3%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 11.07%;
+right: 87.73%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 9.64%;
+right: 89.16%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Icon */
+
+position: absolute;
+left: 8.21%;
+right: 90.59%;
+top: 68.35%;
+bottom: 28.61%;
+
+background: #FFC700;
+
+
+/* Sonia Lefèvre | Coach prise de parole */
+
+position: absolute;
+width: 293px;
+height: 25px;
+left: 114px;
+top: 402px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identique à la hauteur de la zone de texte, ou 156% */
+
+color: #152237;
+
+
+
+/* Parler en public */
+
+position: absolute;
+width: 243px;
+height: 28px;
+left: 114px;
+top: 363px;
+
+/* Body H4 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* ou 150% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* photo */
+
+position: absolute;
+width: 305px;
+height: 206px;
+left: 100px;
+top: 136px;
+
+background: #44DD8A;
+
+
+/* prix */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 274px;
+top: 326px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 120px;
+height: 31.58px;
+left: 274px;
+top: 326px;
+
+background: #152237;
+box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
+border-radius: 93px;
+
+
+/* 15,99 € */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 285px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identique à la hauteur de la zone de texte, ou 100% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* 60 € */
+
+position: absolute;
+width: 23px;
+height: 7px;
+left: 363px;
+top: 338px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 7px;
+/* identique à la hauteur de la zone de texte, ou 70% */
+letter-spacing: -0.015em;
+text-decoration-line: line-through;
+
+color: #FFFFFF;
+
+
+
+/* Les formations populaires */
+
+position: absolute;
+width: 486px;
+height: 72px;
+left: 97px;
+top: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 72px;
+/* identique à la hauteur de la zone de texte, ou 200% */
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* bannière */
+
+position: absolute;
+width: 1680px;
+height: 450px;
+left: 0px;
+top: 80px;
+
+
+
+/* pexels-polina-zimmerman-3747457 1 */
+
+position: absolute;
+width: 1676px;
+height: 1526px;
+left: 4px;
+top: -935px;
+
+background: url(pexels-polina-zimmerman-3747457.jpg);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1680px;
+height: 451px;
+left: 0px;
+top: -2px;
+
+background: linear-gradient(94.01deg, rgba(68, 221, 138, 0.8) 3.11%, rgba(21, 183, 226, 0.8) 98.45%);
+
+
+/* bouton */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: 775px;
+top: 262px;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* en savoir plus */
+
+position: absolute;
+left: 10.77%;
+right: 10.77%;
+top: 27.5%;
+bottom: 27.5%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* Klivio, l’allié de votre progression */
+
+position: absolute;
+width: 1021px;
+height: 59px;
+left: 329px;
+top: 149px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 59px;
+/* identique à la hauteur de la zone de texte */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+text-transform: uppercase;
+
+color: #152237;
+
+
+
+/* Les meilleures formations sur le développement personnel */
+
+position: absolute;
+width: 711px;
+height: 24px;
+left: 484px;
+top: 216px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* navigation */
+
+position: absolute;
+width: 1680px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+background: #152237;
+
+
+/* inscription */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: 1449px;
+top: 20px;
+
+background: linear-gradient(95.98deg, #44DD8A 8.7%, #15B7E2 100%);
+border-radius: 6px;
+
+
+/* Inscription */
+
+position: absolute;
+width: 80px;
+height: 18px;
+left: 25px;
+top: 11px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* connexion */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: 1300px;
+top: 20px;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* Connexion */
+
+position: absolute;
+width: 80px;
+height: 18px;
+left: 25px;
+top: 11px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* recherche */
+
+position: absolute;
+width: 477px;
+height: 40px;
+left: 603px;
+top: 20px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 35.89%;
+right: 35.71%;
+top: 25%;
+bottom: 25%;
+
+border: 1px solid #FFFFFF;
+border-radius: 6px;
+
+
+/* icone */
+
+position: absolute;
+left: 62.37%;
+right: 36.32%;
+top: 35%;
+bottom: 35%;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 15%;
+right: 15%;
+top: 15%;
+bottom: 15%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Rechercher */
+
+position: absolute;
+left: 36.9%;
+right: 57.74%;
+top: 38.75%;
+bottom: 38.75%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* Les formations */
+
+position: absolute;
+width: 110px;
+height: 18px;
+left: 350px;
+top: 31px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* logo */
+
+position: absolute;
+width: 84px;
+height: 31px;
+left: 98px;
+top: 25px;
+
+background: url(png blanc.png);
+
+
+/* navigation */
+
+position: absolute;
+width: 1680px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+background: #152237;
+
+
+/* inscription */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: 1449px;
+top: 20px;
+
+background: linear-gradient(95.98deg, #44DD8A 8.7%, #15B7E2 100%);
+border-radius: 6px;
+
+
+/* Inscription */
+
+position: absolute;
+width: 80px;
+height: 18px;
+left: 25px;
+top: 11px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* connexion */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: 1300px;
+top: 20px;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* Connexion */
+
+position: absolute;
+width: 80px;
+height: 18px;
+left: 25px;
+top: 11px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* recherche */
+
+position: absolute;
+width: 477px;
+height: 40px;
+left: 603px;
+top: 20px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 35.89%;
+right: 35.71%;
+top: 25%;
+bottom: 25%;
+
+border: 1px solid #FFFFFF;
+border-radius: 6px;
+
+
+/* icone */
+
+position: absolute;
+left: 62.37%;
+right: 36.32%;
+top: 35%;
+bottom: 35%;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 15%;
+right: 15%;
+top: 15%;
+bottom: 15%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Rechercher */
+
+position: absolute;
+left: 36.9%;
+right: 57.74%;
+top: 38.75%;
+bottom: 38.75%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* Les formations */
+
+position: absolute;
+width: 110px;
+height: 18px;
+left: 350px;
+top: 31px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* logo */
+
+position: absolute;
+width: 84px;
+height: 31px;
+left: 98px;
+top: 25px;
+
+background: url(png blanc.png);
+
+
+/* formulaire */
+
+position: absolute;
+width: 1680px;
+height: 585.58px;
+left: 0px;
+top: 4413px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1680px;
+height: 566.21px;
+left: 0px;
+top: 4413px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 37.86px;
+height: 15.86px;
+left: 169.89px;
+top: 4747.99px;
+
+background: #FFFFFF;
+
+
+/* Line 9 */
+
+position: absolute;
+width: 350px;
+height: 0px;
+left: 665px;
+top: 4548px;
+
+border: 1px solid #44DD8A;
+
+
+/* Button */
+
+position: absolute;
+width: 351.56px;
+height: 45.3px;
+left: 664.43px;
+top: 4953.28px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #44DD8A;
+border-radius: 6px;
+
+
+/* Envoyer */
+
+position: absolute;
+left: 12.31%;
+right: 12.31%;
+top: 27.5%;
+bottom: 27.5%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #152237;
+
+
+
+/* mot de passe */
+
+position: absolute;
+width: 1335.92px;
+height: 194.64px;
+left: 172px;
+top: 4704px;
+
+
+
+/* Rectangle 2.3 */
+
+position: absolute;
+width: 1335.92px;
+height: 194.64px;
+left: 172px;
+top: 4704px;
+
+background: #152237;
+
+
+/* Votre message */
+
+position: absolute;
+width: 603.06px;
+height: 116.78px;
+left: 188.75px;
+top: 4719.44px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* ou 160% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* email */
+
+position: absolute;
+width: 598.75px;
+height: 45.3px;
+left: 909px;
+top: 4602px;
+
+
+
+/* Rectangle 2.2 */
+
+position: absolute;
+width: 598.75px;
+height: 45.3px;
+left: 909px;
+top: 4602px;
+
+background: #152237;
+
+
+/* Email */
+
+position: absolute;
+width: 270.29px;
+height: 27.18px;
+left: 925.97px;
+top: 4609.96px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* ou 160% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* Nom complet */
+
+position: absolute;
+width: 621.06px;
+height: 45.25px;
+left: 172px;
+top: 4603px;
+
+
+
+/* Rectangle 2.2 */
+
+position: absolute;
+width: 599px;
+height: 45.25px;
+left: 172px;
+top: 4603px;
+
+background: #152237;
+
+
+/* Nom */
+
+position: absolute;
+width: 603.06px;
+height: 27.18px;
+left: 190px;
+top: 4611.83px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* ou 160% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
